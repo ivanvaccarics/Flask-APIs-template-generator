@@ -1,0 +1,23 @@
+{
+    "file": "MyServer",
+    "address": "localhost",
+    "port": 5950,
+    "api":[
+        {
+            "route": "/Hello",
+            "method": ["GET", "POST"],
+            "func_name": "Hello",
+            "func_input_parameters": {
+                "name": "None",
+                "a": 1,
+                "b": 2
+            }
+        },
+        {
+            "route": "/",
+            "method": ["GET"],
+            "func_name": "FirstGet",
+            "func_input_parameters": {}
+        }
+    ]
+}

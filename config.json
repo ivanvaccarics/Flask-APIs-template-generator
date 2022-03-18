@@ -1,0 +1,21 @@
+{
+    "file": "",
+    "address": "",
+    "port": ,
+    "api":[
+        {
+            "route": "",
+            "method": [],
+            "func_name": "",
+            "func_input_parameters": {
+            }
+        },
+        {
+            "route": "",
+            "method": [],
+            "func_name": "",
+            "func_input_parameters": {
+            }
+        }
+    ]
+}
